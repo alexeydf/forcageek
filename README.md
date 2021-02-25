@@ -1,4 +1,4 @@
-# forcageek
+# ForcaGeek
 Jogo da forca com assuntos geek.
 
 ## Grupos de palavras:
