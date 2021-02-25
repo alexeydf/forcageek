@@ -1,7 +1,7 @@
 # forcageek
 Jogo da forca com assuntos geek.
 
-Grupos de palavras:
+##Grupos de palavras:
 -Filmes
 -Séries
 -Desenhos Animados
