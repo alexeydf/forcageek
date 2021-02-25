@@ -8,3 +8,4 @@ Jogo da forca com assuntos geek.
 - Personagens Cavaleiros do Zodiaco
 - Jogos
 - Herois Quadrinhos
+- Animes
