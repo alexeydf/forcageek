@@ -114,10 +114,6 @@ $letras[26].addEventListener('click', ()=>{
     apareceLetra('Ç');
     $letras[26].disabled = true;
 })
-$letras[27].addEventListener('click', ()=>{
-    apareceLetra(' ');
-    $letras[27].disabled = true;
-})
 
 let habilitaBtn = ()=>{
     for(let i in $letras){
@@ -241,7 +237,7 @@ function novaPalavra(){
     $enforcado.innerHTML = '';
     letraErrada = 0;
     letraCerta = 0;
-    //$modal.classList.add('modal-off')
+    $modal.classList.add('modal-off')
     for(let i in letrasSeparadas){
         if(letrasSeparadas[i] === ' '){
             apareceLetra(' ')
