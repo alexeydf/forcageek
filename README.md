@@ -7,4 +7,4 @@ Jogo da forca com assuntos geek.
 - Desenhos Animados
 - Personagens Cavaleiros do Zodiaco
 - Jogos
-- Herois
+- Herois Quadrinhos
