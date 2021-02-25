@@ -1,10 +1,10 @@
 # forcageek
 Jogo da forca com assuntos geek.
 
-##Grupos de palavras:
--Filmes
--Séries
--Desenhos Animados
--Personagens Cavaleiros do Zodiaco
--Jogos
--Herois
+## Grupos de palavras:
+- Filmes
+- Séries
+- Desenhos Animados
+- Personagens Cavaleiros do Zodiaco
+- Jogos
+- Herois
